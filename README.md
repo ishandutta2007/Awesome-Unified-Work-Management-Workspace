@@ -67,43 +67,43 @@ The table below covers top-tier commercial SaaS work management and productivity
 
 ## 🛠️ Open-Source GitHub Projects
 
-The open-source ecosystem offers self-hosted, privacy-first, and extensible alternatives to commercial work management suites. Below are the top open-source projects, **ranked by GitHub Stars in descending order**. 🌟
+The open-source ecosystem offers self-hosted, privacy-first, and extensible alternatives to commercial work management suites. Below are the top open-source projects, **ranked by GitHub_Stars in descending order**. 🌟
 
 ### 📚 All-in-One Workspaces & Knowledge Bases
 
-- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
   *Open-source, privacy-first alternative to Notion built with Flutter and Rust.*  
   AppFlowy delivers an offline-first workspace combining rich-text document editing, nested pages, kanban boards, database tables, and AI agents while ensuring absolute user data ownership and native cross-platform performance. 📱💻
 
-- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
   *Next-generation knowledge operating system fusing Notion-style docs with Miro-like spatial whiteboards.*  
   AFFiNE treats structured markdown documents and visual infinite canvases as two views of the same underlying data block structure, powered by local-first CRDT synchronization and Docker self-hosting. 🎨
 
-- **[Joplin](https://github.com/laurent22/joplin)** [![GitHub stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)  
+- **[Joplin](https://github.com/laurent22/joplin)** [![GitHub_Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)  
   *Secure, open-source note-taking and work notebook with end-to-end encryption (E2EE).*  
   Captures notes, to-dos, and web clippings organized into notebooks and tags, synchronizing seamlessly across mobile and desktop devices via Nextcloud, Dropbox, WebDAV, or Joplin Cloud. 🔐
 
-- **[Outline](https://github.com/outline/outline)** [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
+- **[Outline](https://github.com/outline/outline)** [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
   *Blazing-fast, intuitive collaborative knowledge base for growing teams.*  
   Designed as a modern Confluence/Notion alternative with real-time markdown editing, nested collections, granular permissions, read receipts, and seamless enterprise SSO (OIDC/SAML). 📖
 
-- **[Huly](https://github.com/hcengineering/platform)** [![GitHub stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)  
+- **[Huly](https://github.com/hcengineering/platform)** [![GitHub_Stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)  
   *All-in-one open-source workspace replacing Linear, Jira, Slack, Notion, and Motion.*  
   Combines issue tracking, sprint management, team chat, audio virtual office spaces, collaborative documents, and unified calendars into a singular, ultra-responsive web and desktop environment. 🚀
 
-- **[Docmost](https://github.com/docmost/docmost)** [![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
+- **[Docmost](https://github.com/docmost/docmost)** [![GitHub_Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
   *Open-source collaborative wiki and team documentation platform.*  
   Features real-time collaborative rich-text editing, space-based organization, page hierarchy, asset management, and user permissions for team knowledge bases. 📝
 
-- **[Standard Notes](https://github.com/standardnotes/app)** [![GitHub stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers)  
+- **[Standard Notes](https://github.com/standardnotes/app)** [![GitHub_Stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers)  
   *Zero-knowledge, end-to-end encrypted notes and work productivity application.*  
   Provides an extensible architecture for spreadsheets, markdown documents, code snippets, tasks, and file storage with hardened cryptography and long-term data durability. 🛡️
 
-- **[Initiative](https://github.com/beyonders-studio/initiative)** [![GitHub stars](https://img.shields.io/github/stars/beyonders-studio/initiative?style=social&color=white)](https://github.com/beyonders-studio/initiative/stargazers)  
+- **[Initiative](https://github.com/beyonders-studio/initiative)** [![GitHub_Stars](https://img.shields.io/github/stars/beyonders-studio/initiative?style=social&color=white)](https://github.com/beyonders-studio/initiative/stargazers)  
   *Self-hosted unified workspace for communities and teams.*  
   Integrates task boards, tables, calendars, collaborative documents, whiteboards, and a modular plug-in registry across desktop and mobile platforms. 🌐
 
-- **[Cloudillo](https://github.com/cloudillo/cloudillo)** [![GitHub stars](https://img.shields.io/github/stars/cloudillo/cloudillo?style=social&color=white)](https://github.com/cloudillo/cloudillo/stargazers)  
+- **[Cloudillo](https://github.com/cloudillo/cloudillo)** [![GitHub_Stars](https://img.shields.io/github/stars/cloudillo/cloudillo?style=social&color=white)](https://github.com/cloudillo/cloudillo/stargazers)  
   *Decentralized, self-hosted alternative to Google Workspace and Notion.*  
   Leverages CRDT-powered real-time synchronization, passkey authentication, and federated nodes to unify docs, presentations, spreadsheets, tasks, and wikis. ☁️
 
@@ -111,43 +111,43 @@ The open-source ecosystem offers self-hosted, privacy-first, and extensible alte
 
 ### ✅ Task, Issue & Project Management
 
-- **[Plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+- **[Plane](https://github.com/makeplane/plane)** [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
   *Modern open-source Jira, Linear, Monday, and ClickUp alternative.*  
   Offers issues tracking, cycles (sprints), modules, custom workflows, pages, time estimates, and five dynamic layout views (List, Kanban Board, Calendar, Spreadsheet, Gantt). ✈️
 
-- **[Focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
+- **[Focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
   *Self-hosted multilingual project management platform from Mattermost.*  
   Acts as a dedicated open-source Trello, Notion, and Asana alternative with kanban boards, table grids, and card-level custom metadata properties. 📌
 
-- **[Super Productivity](https://github.com/super-productivity/super-productivity)** [![GitHub stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers)  
+- **[Super Productivity](https://github.com/super-productivity/super-productivity)** [![GitHub_Stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers)  
   *Advanced personal to-do list, time tracker, and work organizer with Jira/GitHub/GitLab integrations.*  
   Integrates time tracking, Pomodoro timer, break reminders, and automated issue synchronization without requiring user registration or third-party servers. ⏱️
 
-- **[Wekan](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
+- **[Wekan](https://github.com/wekan/wekan)** [![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
   *Battle-tested open-source collaborative kanban board platform.*  
   Offers self-hosted agile board management with member permissions, swimlanes, custom fields, checklists, and calendar views across multi-platform deployments. 📋
 
-- **[OpenProject](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+- **[OpenProject](https://github.com/opf/openproject)** [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
   *Enterprise-grade open-source project management and work collaboration suite.*  
   Features classic Gantt project timelines, agile boards, cost reporting, bug tracking, resource planning, and comprehensive project portfolio management. 📊
 
-- **[Planka](https://github.com/plankanban/planka)** [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
+- **[Planka](https://github.com/plankanban/planka)** [![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
   *Real-time kanban tracking board for small teams and developers.*  
   Built with React and Redux, featuring project boards, list customization, card timers, attachments, markdown descriptions, and user mentions. 🗂️
 
-- **[Leantime](https://github.com/leantime/leantime)** [![GitHub stars](https://img.shields.io/github/stars/leantime/leantime?style=social&color=white)](https://github.com/leantime/leantime/stargazers)  
+- **[Leantime](https://github.com/leantime/leantime)** [![GitHub_Stars](https://img.shields.io/github/stars/leantime/leantime?style=social&color=white)](https://github.com/leantime/leantime/stargazers)  
   *Open-source strategic work and project management system tailored for non-project managers.*  
   Combines lean methodology, goal tracking, milestone Gantt roadmaps, idea boards, and ADHD-friendly task execution workflows. 💡
 
-- **[Kaneo](https://github.com/usekaneo/kaneo)** [![GitHub stars](https://img.shields.io/github/stars/usekaneo/kaneo?style=social&color=white)](https://github.com/usekaneo/kaneo/stargazers)  
+- **[Kaneo](https://github.com/usekaneo/kaneo)** [![GitHub_Stars](https://img.shields.io/github/stars/usekaneo/kaneo?style=social&color=white)](https://github.com/usekaneo/kaneo/stargazers)  
   *Lightweight, high-speed open-source project management platform with Model Context Protocol (MCP).*  
   Provides board, list, calendar, and Gantt views with custom fields, subtasks, time tracking, Gitea/GitHub integrations, and native MCP support for AI agent orchestration. ⚡
 
-- **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
+- **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
   *The self-hostable to-do and work organizer built in Go and Vue.*  
   Features subtasks, attachments, priorities, recurring intervals, reminders, task relations, CalDAV sync, and kanban/gantt/table task perspectives. 🦙
 
-- **[Tududi](https://github.com/chrisvel/tududi)** [![GitHub stars](https://img.shields.io/github/stars/chrisvel/tududi?style=social&color=white)](https://github.com/chrisvel/tududi/stargazers)  
+- **[Tududi](https://github.com/chrisvel/tududi)** [![GitHub_Stars](https://img.shields.io/github/stars/chrisvel/tududi?style=social&color=white)](https://github.com/chrisvel/tududi/stargazers)  
   *Calm, minimalist productivity and project workspace system.*  
   Organizes personal and professional life across notes, projects, spaces, and intelligent prioritization without cognitive overwhelm. 🧘
 
@@ -155,15 +155,15 @@ The open-source ecosystem offers self-hosted, privacy-first, and extensible alte
 
 ### 🗄️ Relational Database Workspaces
 
-- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
   *Open-source Airtable alternative transforming any SQL database into a smart relational spreadsheet.*  
   Connects to MySQL, PostgreSQL, SQL Server, and SQLite to provide grid, kanban, gallery, and form views with programmatic REST and GraphQL APIs. 🗃️
 
-- **[Teable](https://github.com/teableio/teable)** [![GitHub stars](https://img.shields.io/github/stars/teableio/teable?style=social&color=white)](https://github.com/teableio/teable/stargazers)  
+- **[Teable](https://github.com/teableio/teable)** [![GitHub_Stars](https://img.shields.io/github/stars/teableio/teable?style=social&color=white)](https://github.com/teableio/teable/stargazers)  
   *High-performance, Postgres-native Airtable alternative capable of scaling to millions of rows.*  
   Delivers real-time spreadsheet interfaces, complex formula engines, custom views, and fast relational aggregation built directly atop PostgreSQL. ⚡
 
-- **[APITable](https://github.com/apitable/apitable)** [![GitHub stars](https://img.shields.io/github/stars/apitable/apitable?style=social&color=white)](https://github.com/apitable/apitable/stargazers)  
+- **[APITable](https://github.com/apitable/apitable)** [![GitHub_Stars](https://img.shields.io/github/stars/apitable/apitable?style=social&color=white)](https://github.com/apitable/apitable/stargazers)  
   *API-first, open-source collaborative database and visual workflow builder.*  
   Enables developers to construct complex internal business tools, automated CRM pipelines, and data-driven workspaces with multi-table links and automated triggers. 🔌
 
@@ -208,7 +208,7 @@ We welcome community contributions! To suggest a new platform or update existing
 1. Fork this repository.
 2. Add your entry following the established table or list format.
 3. Ensure all links point to authoritative product sites or active GitHub repositories.
-4. Verify pricing tiers, free tier constraints, and GitHub star counts.
+4. Verify pricing tiers, free tier constraints, and GitHub Stars_Counts.
 5. Submit a pull request detailing the platform and its architectural significance.
 
 ---
@@ -220,3 +220,12 @@ We welcome community contributions! To suggest a new platform or update existing
 - Repository licenses vary across open-source projects (including MIT, AGPL-3.0, Apache-2.0, and MPL-2.0). Review each project repository before commercial implementation.
 
 Distributed under the [Creative Commons Zero v1.0 Universal](LICENSE) license.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Unified-Work-Management-Workspace&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Unified-Work-Management-Workspace_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Unified-Work-Management-Workspace_growth.svg">
+  </picture>
+</a>
