@@ -1,253 +1,195 @@
-# Awesome-Unified-Work-Management-Workspace
+# Awesome Unified Work Management & Workspace
 
-## Top Unified Work Management Workspace Ecosystem
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Tracked Category](https://img.shields.io/badge/Category-Work%20Management%20%26%20Workspace-blue.svg)](https://github.com/ishandutta2007/Awesome-Unified-Work-Management-Workspace)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE)
 
+> A curated list of leading SaaS Unified Work Management platforms, modern digital workspaces, and top self-hosted open-source collaboration hubs.
 
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on All-in-One Workspaces, Task-Doc Integration & Self-Hosted Collaboration Hubs*  
-
-**Last updated: October 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Unified Work Management Workspaces**. These tools enable teams to consolidate tasks, documents, goals, and communication into a single connected environment—reducing tool sprawl and providing the visibility needed to align execution with strategy.
-
-
-
-**Examples** include HubSpot Workspace, Notion, Monday.com, Asana, ClickUp, Smartsheet, Airtable, Coda, Basecamp, and Microsoft 365 (the category leaders).
-
-
-
-**Open-source emphasis**: Unified Work Management is a domain where open-source tooling is **fragmented but increasingly capable of replacing specific slices of the stack**. No single open-source project replicates the full "everything app" experience of Notion or ClickUp, but the ecosystem covers the major needs: **Huly** positions itself as an all-in-one replacement for Linear, Jira, Slack, Notion, and Motion , **Plane** serves as a Jira/Linear/Monday/ClickUp alternative for tasks and sprints , **AFFiNE** combines docs and whiteboards in a Notion/Miro hybrid , **NocoDB** and **Teable** provide Airtable-like database workspaces , and **Focalboard** offers a self-hosted Trello/Notion/Asana alternative . The critical gap: **no open-source workspace unifies tasks, docs, databases, and communication as seamlessly as Notion**—teams typically assemble 2–4 tools to cover the same surface area.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[HubSpot Workspace](https://www.hubspot.com/)**  
-
-  Unified workspace within HubSpot's CRM platform; connects tasks, documents, and communication to contact and deal records for sales and marketing teams.
-
-
-
-- **[Notion](https://www.notion.com/)**  
-
-  All-in-one workspace combining wikis, docs, databases, and project management with flexible block-based pages and template ecosystem.
-
-
-
-- **[Monday.com](https://monday.com/)**  
-
-  Work OS with customizable boards, dashboards, and automation for tracking projects and team workload across departments.
-
-
-
-- **[Asana](https://asana.com/)**  
-
-  Work management platform with portfolio views, goals tracking, and timeline dependencies for cross-team project visibility and accountability.
-
-
-
-- **[ClickUp](https://clickup.com/)**  
-
-  All-in-one productivity platform with tasks, docs, goals, whiteboards, and multiple views (List, Board, Gantt, Calendar) for teams seeking to consolidate tools.
-
-
-
-- **[Smartsheet](https://www.smartsheet.com/)**  
-
-  Spreadsheet-based work management with portfolio rollup reports, resource views, and cross-project dashboards for operational teams.
-
-
-
-- **[Airtable](https://www.airtable.com/)**  
-
-  Relational database-spreadsheet hybrid with views, automations, and interfaces for building custom work management applications.
-
-
-
-- **[Coda](https://coda.io/)**  
-
-  Document-tool hybrid combining docs, spreadsheets, and apps in a single canvas; strong for teams wanting custom workflows without separate tools.
-
-
-
-- **[Basecamp](https://basecamp.com/)**  
-
-  Project management and team communication with message boards, to-do lists, schedules, and file storage in a simple, opinionated interface.
-
-
-
-- **[Microsoft 365](https://www.microsoft.com/en-us/microsoft-365)**  
-
-  Integrated suite including **Microsoft Planner** (now unified with Project for the web and To Do for a single work management experience) , Teams, SharePoint, and Outlook for enterprise-wide collaboration.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-### All-in-One Workspace Platforms
-
-
-
-- **[Huly](https://github.com/hcengineering/huly-selfhost)**  
-
-  Open-source **all-in-one project management platform** positioned as a replacement for Linear, Jira, Slack, Notion, and Motion (~28k GitHub stars)  . Combines project tracking, virtual office, chat, and docs in a single self-hosted workspace. **The closest open-source attempt at a unified "everything app"** for software teams—though each module is less deep than dedicated tools.
-
-
-
-- **[Initiative](https://github.com/beyonders-studio/initiative)**  
-
-  Self-hosted **shared workspace for communities and small teams** (pre-1.0)  . Bundles projects and tasks (board/table/calendar views), **real-time document editing** (docs, spreadsheets, whiteboards), calendars, wikis, galleries, queues, and dashboards. Includes a **marketplace of plug-ins** fed by a signed registry, and native apps for iOS, Android, Windows, Mac, and Linux. **The most comprehensive open-source attempt at unifying work artifacts** for non-enterprise groups—but pre-1.0 with API instability.
-
-
-
-- **[Cloudillo](https://github.com/cloudillo/cloudillo)**  
-
-  Decentralized, self-hosted **alternative to Google Workspace** (alpha, MPL-2.0)  . Plugin architecture includes Quillo (docs), Prezillo (presentations), Calcillo (spreadsheets), Taskillo (tasks), Notillo (wiki), Ideallo (whiteboard), and more. Features **CRDT-powered real-time collaboration** (Yjs), WebAuthn/passkey auth, and federation between instances. **The most ambitious open-source workspace unification**—but alpha-stage and Rust-server-dependent.
-
-
-
-### Task & Project Management (ClickUp/Monday Alternatives)
-
-
-
-- **[Plane](https://github.com/makeplane/plane)**  
-
-  The most mature open-source **Jira/Linear/Monday/ClickUp alternative** (~61k GitHub stars)  . Features work items, cycles (sprints), modules, pages, and five layout views (List, Board, Spreadsheet, Gantt, Calendar). Self-hostable with Docker. **The strongest open-source option for task-centric work management**—docs exist but are less central than in Notion.
-
-
-
-- **[Kaneo](https://github.com/usekaneo/kaneo)**  
-
-  Fast, simple open-source project management (MIT)  . Features Board, List, Calendar, and Gantt views; subtasks, dependencies, labels, comments, and time tracking; custom columns and fields with rules; GitHub/Gitea integration; REST API, CLI, and **MCP for AI assistants**. **The cleanest lightweight alternative** for teams wanting focused task management without workspace bloat.
-
-
-
-- **[Focalboard](https://github.com/mattermost-community/focalboard)**  
-
-  Open-source self-hosted **Trello/Notion/Asana alternative** (~26k GitHub stars)  . Provides kanban boards, table views, and card-based task management with multi-user collaboration. **Mature and stable**—though development pace has slowed compared to Plane.
-
-
-
-- **[Tududi](https://github.com/chrisvel/tududi)**  
-
-  Open-source "calm" system for organizing life and work (MIT, ~3.3k GitHub stars)  . Combines tasks, projects, notes, areas, and smart workflows; self-hosted or hosted. **A lightweight, opinionated alternative** for individuals and small teams wanting simplicity over feature depth.
-
-
-
-### Document & Knowledge Workspaces (Notion Alternatives)
-
-
-
-- **[AFFiNE](https://github.com/toeverything/AFFiNE)**  
-
-  Open-source knowledge base combining **block documents and infinite canvas** (Notion + Miro style) (~74k GitHub stars)  . Supports offline use, self-hosting via Docker, and AI-assisted creation. **The strongest open-source alternative to Notion's document experience**—but lacks integrated task management at ClickUp's depth.
-
-
-
-- **[Docmost](https://github.com/docmost/docmost)**  
-
-  Open-source collaborative wiki and documentation software, positioned as a **Confluence/Notion alternative** (~22k GitHub stars)  . Features spaces, nested pages, real-time collaboration, and permissions. **Best for documentation-centric workspaces**—tasks and databases require separate tools.
-
-
-
-### Database Workspaces (Airtable Alternatives)
-
-
-
-- **[NocoDB](https://github.com/nocodb/nocodb)**  
-
-  Open-source **Airtable alternative** (~65k GitHub stars)  . Turns any SQL database into a smart spreadsheet interface with grid, kanban, calendar, and gallery views; REST API and self-hostable. **The most mature open-source database workspace**—but it is a database UI, not a full task/doc workspace.
-
-
-
-- **[Teable](https://github.com/teableio/teable)**  
-
-  Open-source **Airtable alternative** built on PostgreSQL (~21k GitHub stars)  . Provides a spreadsheet-database hybrid with views, formulas, and collaboration. **A newer, Postgres-native option** for teams wanting Airtable-like functionality with data ownership.
-
-
-
-- **[APITable](https://github.com/apitable/apitable)**  
-
-  Open-source **API-oriented low-code platform** for building collaborative apps and databases (~16k GitHub stars)  . Positioned as an Airtable alternative with API-first architecture. **Best for developer-led database apps**—heavier setup than NocoDB.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Trestl** — Self-hosted project workspace for personal projects and small teams; features project updates with health status, weekly reviews, GitHub/Gitea connections, and Docker/Kubernetes deployment  . **Early-stage** (v0.6.0) but thoughtfully scoped for solo developers and small teams.
-
-- **Ideon** — Self-hosted visual workspace organizing repositories, notes, and links on an infinite canvas with Git versioning; AGPLv3  . **Niche spatial approach**—not a traditional task/doc workspace, but useful for visual thinkers managing project context.
-
-- **OpenProject** — Leading open-source project management software with Gantt charts, Agile boards, time tracking, and portfolio views (~16k GitHub stars)  . **Strong for traditional project management**—less unified workspace than Huly or Plane.
-
-
-
-**Frameworks for building custom systems**: The choice depends on which "unified" slice matters most. For **all-in-one software team workspace**, Huly . For **task-centric project management**, Plane or Kaneo . For **document + whiteboard hybrid**, AFFiNE . For **database workspace**, NocoDB or Teable . For **community workspace with everything**, Initiative (accepting pre-1.0 risk) . No open-source project delivers **Notion's seamless integration of docs, databases, and tasks** in a single polished experience—teams typically assemble 2–3 tools to match what a single SaaS workspace provides.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Unified work management platforms handling team data must comply with applicable privacy regulations and organizational governance policies; self-hosted solutions place full responsibility for security, backups, and updates on the operator.
-
-- **Open-source unified work management is fragmented by design**—Huly attempts the broadest unification but each module is less deep than dedicated tools ; Plane and Kaneo excel at tasks but lack Notion-level docs; AFFiNE excels at docs but lacks task depth. **No open-source workspace matches Notion or ClickUp's integration breadth** in a single polished product. Choose based on which slice your team uses most, or accept assembling multiple tools.
-
-- Verify license terms for commercial use; Huly, Plane, AFFiNE, NocoDB, and Teable are open-source (check repositories for specific licenses); Kaneo uses MIT ; Initiative is pre-1.0 (check repository); Cloudillo uses MPL-2.0 .
-
-
+Unified Work Management (UWM) platforms consolidate tasks, documents, spreadsheets, relational databases, goals, and team communications into a single connected workspace. By bridging structured project tracking and unstructured knowledge management, unified workspaces eradicate cross-app tool sprawl and align daily execution with strategic organizational goals.
 
 ---
 
+## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS & Hosted Workspace Platforms](#saas--hosted-workspace-platforms)
+- [Open-Source GitHub Projects](#open-source-github-projects)
+  - [All-in-One Workspaces & Knowledge Bases](#all-in-one-workspaces--knowledge-bases)
+  - [Task, Issue & Project Management](#task-issue--project-management)
+  - [Relational Database Workspaces](#relational-database-workspaces)
+  - [Lightweight & Specialized Collaboration Tools](#lightweight--specialized-collaboration-tools)
+- [Key Selection Criteria](#key-selection-criteria)
+- [How to Contribute](#how-to-contribute)
+- [Disclaimer & License](#disclaimer--license)
 
-**Made for team leads, operations managers, and organizations choosing their work management stack.**  
+---
 
-Let's make unified work management more open, but with clear eyes about the integration breadth that commercial all-in-one workspaces still hold.
+## Sector Overview & Market Dynamics
+
+The global Unified Work Management and Collaborative Work Management (CWM) software market is estimated at **$10.5 billion to $13.2 billion**, projected to grow at a CAGR of ~13.5% toward **$26 billion+**.
+
+The sector is **moderately fragmented yet increasingly concentrated around category behemoths** that leverage strong platform moats and enterprise bundle dynamics:
+- **Megacap Enterprise Ecosystems**: Giant ecosystems like Microsoft 365 (via Microsoft Planner, Loop, Teams) and HubSpot capture baseline workspace needs through suite bundling.
+- **Category Leaders & Work OS Consolidators**: High-growth pure-plays—including Notion, Monday.com, Asana, ClickUp, and Smartsheet—compete aggressively as multi-product "Work OS" platforms consolidating tasks, docs, and automations.
+- **The Modern Open-Source Landscape**: Open-source workspaces are fragmented across distinct functional domains (such as AppFlowy/AFFiNE for knowledge docs, Plane for agile task execution, and NocoDB/Teable for database management). This fragmentation creates strong demand for extensible, self-hosted, all-in-one alternatives (e.g., Huly) that combat commercial vendor lock-in and safeguard enterprise data sovereignty.
+
+---
+
+## SaaS & Hosted Workspace Platforms
+
+The table below covers top-tier commercial SaaS work management and productivity workspace platforms, sorted in descending order by company scale (market capitalization or private valuation).
+
+| Platform | Company Valuation / Revenue Scale | Starting Tier Pricing | Free Tier / Trial Limits | Primary Use Case & Key Highlights |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft 365](https://www.microsoft.com/en-us/microsoft-365)** | **$3.1T+ Market Cap** (Microsoft Corporation) | **$6.00/user/month** (annual commitment, Microsoft 365 Business Basic) | **30-Day Free Trial** (up to 25 user licenses with full access to web/mobile apps, 1 TB OneDrive storage/user, Exchange email, and Teams) | Integrated enterprise suite uniting Planner (unified Project for the web & To Do), Loop workspaces, SharePoint, and Teams. |
+| **[HubSpot Workspace](https://www.hubspot.com/)** | **~$28B Market Cap** (NYSE: HUBS) | **$15/seat/month** (billed annually, Starter Customer Platform) | **Free Forever Plan** (up to 5 users, includes CRM contacts, tasks, ticketing, shared inbox, document tracking, and quotes) | Unified customer-centric workspace tying tasks, deals, docs, and communication pipelines directly to CRM records. |
+| **[Monday.com](https://monday.com/)** | **~$13B Market Cap** (NASDAQ: MNDY) | **$9/seat/month** (billed annually, $27/mo min for 3 seats on Basic Plan) | **Free Forever Plan** (up to 2 seats, 3 boards, 200+ templates, 500 MB storage; 14-day Pro trial with unlimited boards/automations) | Highly visual Work OS with customizable boards, automations, Gantt charts, and dashboards for cross-departmental operations. |
+| **[Smartsheet](https://www.smartsheet.com/)** | **~$8.4B Valuation** (Acquired / Taken Private by Blackstone & Vista) | **$9/user/month** (billed annually, Pro Plan, up to 10 members) | **Free Forever Plan** (1 user + up to 2 editors, 2 sheets, 500 MB storage; 30-day Enterprise-featured trial available) | Spreadsheet-native enterprise work execution platform with automated workflows, portfolio rollup reporting, and resource management. |
+| **[Notion](https://www.notion.com/)** | **~$10B Valuation** (Private / Last Equity Financing Round) | **$10/user/month** (billed annually, Plus Plan, $12/user billed monthly) | **Free Forever Plan** (unlimited pages/blocks for individuals, up to 10 guest collaborators, 5 MB file upload limit, 7-day page history) | Modular, block-based workspace combining wikis, collaborative docs, relational databases, AI agents, and sprint tracking. |
+| **[Airtable](https://www.airtable.com/)** | **~$11B Valuation** (Private / Series F Benchmark) | **$20/seat/month** (billed annually, Team Plan, $24/seat billed monthly) | **Free Forever Plan** (up to 5 creators/editors, 1,000 records per base, 1 GB attachment storage per base, up to 100 automation runs/month) | Relational database-spreadsheet hybrid with custom drag-and-drop interface designer, workflows, and low-code integrations. |
+| **[ClickUp](https://clickup.com/)** | **~$4B Valuation** (Private / Series C Valuation) | **$7/user/month** (billed annually, Unlimited Plan, $10/user billed monthly) | **Free Forever Plan** (unlimited members, 100 MB storage, 100 automations/mo, 100 Mind Maps, up to 5 spaces, full task management) | Comprehensive "One app to replace them all" featuring tasks, whiteboards, dashboards, documents, time tracking, and goals. |
+| **[Asana](https://asana.com/)** | **~$3B Market Cap** (NYSE: ASAN) | **$10.99/user/month** (billed annually, Starter Plan, $13.49 billed monthly) | **Free Forever Plan** (up to 10 teammates, unlimited tasks/projects/messages/activity log, 100MB file uploads, list/board/calendar views) | Enterprise work management with cross-team dependencies, portfolio rollups, workload balancing, and strategic goal tracking. |
+| **[Coda](https://coda.io/)** | **~$1.4B Valuation** (Private / Series D Benchmark) | **$10/Doc Maker/month** (billed annually, Pro Plan, Editors & Viewers are always free) | **Free Forever Plan** (unlimited unshared doc makers, up to 50 objects per doc, 10 MB per attachment, 35+ basic document packs) | All-in-one interactive canvas blending documents, spreadsheets, buttons, automations, and formulas into custom web applications. |
+| **[Basecamp](https://basecamp.com/)** | **Bootstrapped / High-Profitability SMB Leader** (37signals) | **$15/user/month** (monthly pay-as-you-go) or **$299/month flat** (unlimited users, Pro Unlimited) | **30-Day Free Trial** (full unrestricted access to all features, to-dos, Campfires, message boards, and docs; no credit card required) | Calm, opinionated project management and team collaboration with message boards, chat, to-dos, automatic check-ins, and file storage. |
+
+---
+
+## Open-Source GitHub Projects
+
+The open-source ecosystem offers self-hosted, privacy-first, and extensible alternatives to commercial work management suites. Below are the top open-source projects, **ranked by GitHub Stars in descending order**.
+
+### All-in-One Workspaces & Knowledge Bases
+
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+  *Open-source, privacy-first alternative to Notion built with Flutter and Rust.*  
+  AppFlowy delivers an offline-first workspace combining rich-text document editing, nested pages, kanban boards, database tables, and AI agents while ensuring absolute user data ownership and native cross-platform performance.
+
+- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+  *Next-generation knowledge operating system fusing Notion-style docs with Miro-like spatial whiteboards.*  
+  AFFiNE treats structured markdown documents and visual infinite canvases as two views of the same underlying data block structure, powered by local-first CRDT synchronization and Docker self-hosting.
+
+- **[Joplin](https://github.com/laurent22/joplin)** [![GitHub stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)  
+  *Secure, open-source note-taking and work notebook with end-to-end encryption (E2EE).*  
+  Captures notes, to-dos, and web clippings organized into notebooks and tags, synchronizing seamlessly across mobile and desktop devices via Nextcloud, Dropbox, WebDAV, or Joplin Cloud.
+
+- **[Outline](https://github.com/outline/outline)** [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
+  *Blazing-fast, intuitive collaborative knowledge base for growing teams.*  
+  Designed as a modern Confluence/Notion alternative with real-time markdown editing, nested collections, granular permissions, read receipts, and seamless enterprise SSO (OIDC/SAML).
+
+- **[Huly](https://github.com/hcengineering/platform)** [![GitHub stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)  
+  *All-in-one open-source workspace replacing Linear, Jira, Slack, Notion, and Motion.*  
+  Combines issue tracking, sprint management, team chat, audio virtual office spaces, collaborative documents, and unified calendars into a singular, ultra-responsive web and desktop environment.
+
+- **[Docmost](https://github.com/docmost/docmost)** [![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
+  *Open-source collaborative wiki and team documentation platform.*  
+  Features real-time collaborative rich-text editing, space-based organization, page hierarchy, asset management, and user permissions for team knowledge bases.
+
+- **[Standard Notes](https://github.com/standardnotes/app)** [![GitHub stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers)  
+  *Zero-knowledge, end-to-end encrypted notes and work productivity application.*  
+  Provides an extensible architecture for spreadsheets, markdown documents, code snippets, tasks, and file storage with hardened cryptography and long-term data durability.
+
+- **[Initiative](https://github.com/beyonders-studio/initiative)** [![GitHub stars](https://img.shields.io/github/stars/beyonders-studio/initiative?style=social&color=white)](https://github.com/beyonders-studio/initiative/stargazers)  
+  *Self-hosted unified workspace for communities and teams.*  
+  Integrates task boards, tables, calendars, collaborative documents, whiteboards, and a modular plug-in registry across desktop and mobile platforms.
+
+- **[Cloudillo](https://github.com/cloudillo/cloudillo)** [![GitHub stars](https://img.shields.io/github/stars/cloudillo/cloudillo?style=social&color=white)](https://github.com/cloudillo/cloudillo/stargazers)  
+  *Decentralized, self-hosted alternative to Google Workspace and Notion.*  
+  Leverages CRDT-powered real-time synchronization, passkey authentication, and federated nodes to unify docs, presentations, spreadsheets, tasks, and wikis.
+
+---
+
+### Task, Issue & Project Management
+
+- **[Plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+  *Modern open-source Jira, Linear, Monday, and ClickUp alternative.*  
+  Offers issues tracking, cycles (sprints), modules, custom workflows, pages, time estimates, and five dynamic layout views (List, Kanban Board, Calendar, Spreadsheet, Gantt).
+
+- **[Focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
+  *Self-hosted multilingual project management platform from Mattermost.*  
+  Acts as a dedicated open-source Trello, Notion, and Asana alternative with kanban boards, table grids, and card-level custom metadata properties.
+
+- **[Super Productivity](https://github.com/super-productivity/super-productivity)** [![GitHub stars](https://img.shields.io/github/stars/super-productivity/super-productivity?style=social&color=white)](https://github.com/super-productivity/super-productivity/stargazers)  
+  *Advanced personal to-do list, time tracker, and work organizer with Jira/GitHub/GitLab integrations.*  
+  Integrates time tracking, Pomodoro timer, break reminders, and automated issue synchronization without requiring user registration or third-party servers.
+
+- **[Wekan](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
+  *Battle-tested open-source collaborative kanban board platform.*  
+  Offers self-hosted agile board management with member permissions, swimlanes, custom fields, checklists, and calendar views across multi-platform deployments.
+
+- **[OpenProject](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+  *Enterprise-grade open-source project management and work collaboration suite.*  
+  Features classic Gantt project timelines, agile boards, cost reporting, bug tracking, resource planning, and comprehensive project portfolio management.
+
+- **[Planka](https://github.com/plankanban/planka)** [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
+  *Real-time kanban tracking board for small teams and developers.*  
+  Built with React and Redux, featuring project boards, list customization, card timers, attachments, markdown descriptions, and user mentions.
+
+- **[Leantime](https://github.com/leantime/leantime)** [![GitHub stars](https://img.shields.io/github/stars/leantime/leantime?style=social&color=white)](https://github.com/leantime/leantime/stargazers)  
+  *Open-source strategic work and project management system tailored for non-project managers.*  
+  Combines lean methodology, goal tracking, milestone Gantt roadmaps, idea boards, and ADHD-friendly task execution workflows.
+
+- **[Kaneo](https://github.com/usekaneo/kaneo)** [![GitHub stars](https://img.shields.io/github/stars/usekaneo/kaneo?style=social&color=white)](https://github.com/usekaneo/kaneo/stargazers)  
+  *Lightweight, high-speed open-source project management platform with Model Context Protocol (MCP).*  
+  Provides board, list, calendar, and Gantt views with custom fields, subtasks, time tracking, Gitea/GitHub integrations, and native MCP support for AI agent orchestration.
+
+- **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
+  *The self-hostable to-do and work organizer built in Go and Vue.*  
+  Features subtasks, attachments, priorities, recurring intervals, reminders, task relations, CalDAV sync, and kanban/gantt/table task perspectives.
+
+- **[Tududi](https://github.com/chrisvel/tududi)** [![GitHub stars](https://img.shields.io/github/stars/chrisvel/tududi?style=social&color=white)](https://github.com/chrisvel/tududi/stargazers)  
+  *Calm, minimalist productivity and project workspace system.*  
+  Organizes personal and professional life across notes, projects, spaces, and intelligent prioritization without cognitive overwhelm.
+
+---
+
+### Relational Database Workspaces
+
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+  *Open-source Airtable alternative transforming any SQL database into a smart relational spreadsheet.*  
+  Connects to MySQL, PostgreSQL, SQL Server, and SQLite to provide grid, kanban, gallery, and form views with programmatic REST and GraphQL APIs.
+
+- **[Teable](https://github.com/teableio/teable)** [![GitHub stars](https://img.shields.io/github/stars/teableio/teable?style=social&color=white)](https://github.com/teableio/teable/stargazers)  
+  *High-performance, Postgres-native Airtable alternative capable of scaling to millions of rows.*  
+  Delivers real-time spreadsheet interfaces, complex formula engines, custom views, and fast relational aggregation built directly atop PostgreSQL.
+
+- **[APITable](https://github.com/apitable/apitable)** [![GitHub stars](https://img.shields.io/github/stars/apitable/apitable?style=social&color=white)](https://github.com/apitable/apitable/stargazers)  
+  *API-first, open-source collaborative database and visual workflow builder.*  
+  Enables developers to construct complex internal business tools, automated CRM pipelines, and data-driven workspaces with multi-table links and automated triggers.
+
+---
+
+## Key Selection Criteria
+
+When evaluating unified work management platforms for organizational deployment, consider the following trade-offs:
+
+1. **Workspace Architecture**:
+   - *Doc-Centric Workspaces* (Notion, AFFiNE, AppFlowy, Outline): Optimal for documentation-heavy workflows, engineering wikis, product specs, and creative drafting.
+   - *Task & Sprint Workspaces* (Plane, Huly, Monday, ClickUp, Asana): Ideal for cross-functional sprint planning, roadmap execution, and SLA-governed task operations.
+   - *Data-Driven Workspaces* (Airtable, NocoDB, Teable, Coda): Built for custom inventory, pipeline management, applicant tracking, and dynamic computational tables.
+
+2. **Self-Hosting vs. Commercial SaaS**:
+   - *Commercial SaaS*: Accelerates onboarding with turnkey mobile apps, third-party integrations, enterprise identity (SAML SSO/SCIM), and managed compliance (SOC 2 Type II, ISO 27001).
+   - *Self-Hosted Open Source*: Guarantees total data residency, eliminates recurring seat licensing fees, protects proprietary company knowledge, and allows programmatic customization.
+
+---
+
+## How to Contribute
+
+We welcome community contributions! To suggest a new platform or update existing entries:
+
+1. Fork this repository.
+2. Add your entry following the established table or list format.
+3. Ensure all links point to authoritative product sites or active GitHub repositories.
+4. Verify pricing tiers, free tier constraints, and GitHub star counts.
+5. Submit a pull request detailing the platform and its architectural significance.
+
+---
+
+## Disclaimer & License
+
+- This list is independently curated by the open-source community for educational and technical evaluation purposes.
+- Trademarks, logos, and brand names belong to their respective corporate owners.
+- Repository licenses vary across open-source projects (including MIT, AGPL-3.0, Apache-2.0, and MPL-2.0). Review each project repository before commercial implementation.
+
+Distributed under the [Creative Commons Zero v1.0 Universal](LICENSE) license.
